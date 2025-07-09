@@ -1,3 +1,4 @@
+---
 
 # **Projeto StartupLogistica - Sistema de Gerenciamento de Usuários**
 
@@ -194,10 +195,20 @@ A configuração do **GitHub Actions** para testes automatizados está presente 
 
 ## **Simulação de Mudança no Escopo**
 
-Durante o desenvolvimento, o escopo foi alterado para incluir a **autenticação JWT** e a **integração com GitHub Actions** para garantir a qualidade contínua do código. A alteração foi registrada no **README.md** e no **quadro Kanban** do GitHub.
+Durante o desenvolvimento, o escopo do projeto foi alterado para incluir a **autenticação JWT** e a **integração com GitHub Actions** para garantir a qualidade contínua do código.
+
+### **Justificativa da Mudança**:
+
+A decisão de implementar a autenticação JWT foi motivada pela necessidade de proteger os dados dos usuários e garantir uma experiência mais segura ao acessar as funcionalidades do sistema. Além disso, a integração com o **GitHub Actions** foi adicionada para melhorar a qualidade do código e garantir que todas as alterações sejam validadas automaticamente por testes, evitando a introdução de erros no código principal.
+
+### **Alteração no Quadro Kanban**:
+
+As tarefas relacionadas à implementação de autenticação JWT e à configuração do pipeline de CI com **GitHub Actions** foram movidas para a coluna **Em Progresso** e, após finalização, para a coluna **Concluído** no quadro **Kanban** do GitHub Projects.
 
 ---
 
 ## **Vídeo Explicativo**
 
 O vídeo explicativo pode ser acessado no [link do vídeo](#).
+
+---
