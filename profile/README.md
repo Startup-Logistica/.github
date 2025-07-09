@@ -1,6 +1,3 @@
-Aqui está o **README.md** atualizado com base nas informações fornecidas sobre o **backend** (Java 21, Spring Boot e PostgreSQL), além das pastas e estrutura mencionadas. Ele também inclui as instruções detalhadas para o **frontend** e o **backend**.
-
----
 
 # **Projeto StartupLogistica - Sistema de Gerenciamento de Usuários**
 
@@ -204,7 +201,3 @@ Durante o desenvolvimento, o escopo foi alterado para incluir a **autenticação
 ## **Vídeo Explicativo**
 
 O vídeo explicativo pode ser acessado no [link do vídeo](#).
-
----
-
-Este **README.md** agora cobre tanto o **frontend** quanto o **backend**, oferecendo uma visão clara do projeto, das funcionalidades e das instruções para execução. Ele também reflete a estrutura de diretórios e as configurações necessárias para o funcionamento correto do sistema.
